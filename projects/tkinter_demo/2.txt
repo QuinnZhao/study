@@ -1,0 +1,39 @@
+Cyber intrusions are a serious problem, but even IT professionals sometimes find IT hard to spot them early.
+
+According to a study by the Ponemon Institute, a Michigan company, it takes an average of 191 days for an organization to detect a flaw and control it within 66 days.The agency conducts independent research in areas such as privacy, data protection and security policy.
+
+As the study points out, the faster the default, the lower the cost of the victim's company.Consider this:
+
+In the United States, about 52 percent of data breaches are caused by malicious or criminal activity.
+24% of data leaks are caused by system failures.
+24% of violations were caused by human error.
+Of course, humans often help criminals unconsciously.I'm not sure what the real factors behind these Numbers are.
+
+According to Ponemon, the cost of default varies from country to country, with the United States at the top of the list of costs.In the United States, the average cost of a malicious or criminal data breach is $244.
+
+What is the cost of each broken record in your business?
+CyberRx can help you identify a breakthrough.
+
+Understand CyberRx
+
+Many small businesses in the Sioux falls region may not be spared because it involves thousands of broken records.
+
+I recently interviewed Ola Sage, the founder and CEO of two small tech companies.One of her companies, CyberRx of Maryland, has developed software designed to help companies assess and strengthen their protection strategies through detailed federal cybersecurity guidelines.SDN is the resale partner of CyberRx services.
+
+Another of Sage's businesses is electronic management, an IT services company that serves federal government customers.
+
+Among the questions I ask, Sage is the breakthrough that small businesses should look for.She made some Suggestions, including:
+
+There are many system activities at unusual times.
+Confidential or proprietary company information that appears on the Internet.
+Experience with distributed denial of service (DDoS) attacks that prevent legitimate users from accessing the network or their services.
+A privileged user account, which has a system activity at an unusual time.
+There is no obvious reason for the light on the webcam.
+A user receives an email, or does not have an attachment from a colleague, and finds that it is not sent by a colleague.
+The network log appears to have been tampered with.
+
+* * * * * * * * * *
+
+
+**********
+
