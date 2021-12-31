@@ -1,7 +1,0 @@
-window_position : OO
-
-tex:
-  text_to_replace: "[tex_expression]"
-  executable: "xelatex -no-pdf"
-  template_file: "ctex_template.tex"
-  intermediate_filetype: "xdv"
